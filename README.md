@@ -23,4 +23,3 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=sergiusnahnoinyi&show_icons=true&locale=en&theme=nord" alt="sergiusnahnoinyi" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiusnahnoinyi&show_icons=true&locale=en&layout=compact&langs_count=6&theme=nord" alt="sergiusnahnoinyi" /></p>
-<p align="left"><a href="https://www.codewars.com/users/SergiusNahnoinyi"><img src="https://www.codewars.com/users/SergiusNahnoinyi/badges/large" alt="codewars" /></a></p>
